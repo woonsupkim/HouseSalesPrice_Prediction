@@ -2,7 +2,7 @@
 
 Conducted feature analysis on 79 explanatory variables and used various supervised learning models to predict the final price of a home. The 10-fold cross-validation method was used to identify the best predictive model, which includes linear models, random forests, and gradient boosting. The best-performing regression model explained 92% of the variation of the response variable, and essential features were identified using an inference analysis.
 
-## Technical Skills
+## Project Presentation
 ![1](https://github.com/woonsupkim/HouseSalesPrice_Prediction/blob/main/PPT/AboutFiles/Slide1.PNG)
 ![1](https://github.com/woonsupkim/HouseSalesPrice_Prediction/blob/main/PPT/AboutFiles/Slide2.PNG)
 ![1](https://github.com/woonsupkim/HouseSalesPrice_Prediction/blob/main/PPT/AboutFiles/Slide3.PNG)
